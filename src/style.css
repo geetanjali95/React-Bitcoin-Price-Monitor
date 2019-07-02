@@ -1,0 +1,10 @@
+.column-headings {
+    background-color: #b10404;
+    color: white;
+    padding: 3px 3px 3px 3px;
+    text-align: center;
+}
+
+.dynamic-row {
+    width:150px;
+}
